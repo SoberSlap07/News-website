@@ -14,3 +14,4 @@ I developed this **News Website** using **HTML**, **CSS**, and **JavaScript**. I
 - **CSS3** – Styling and responsive layout
 - **JavaScript (ES6)** – Dynamic data fetching and DOM manipulation
 - **News API** – For fetching live news data
+![Website Screenshot](screenshot.png)
